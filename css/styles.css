@@ -1,0 +1,17 @@
+.form-group {
+  color: purple;
+  background-color: lightgreen;
+  font-style: italic;
+  font-family: cursive;
+}
+
+p {
+  font-style: italic;
+  font-family: cursive;
+  color: purple;
+  font-size: 25px;
+}
+
+body {
+  background-color: pink;
+}
